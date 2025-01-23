@@ -20,4 +20,4 @@ Currently, use is limited to the Windows OS. The authors are working on the opti
 Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 # Citation
-Use the following citation when working with the model and using the data generated with it: Mauthe, F., S. Hagmeyer, and P. Zeiler (2025). Holistic simulation model of the temporal degradation of rolling bearings. In E. B. Abrahamsen, T. Aven, F. Bouder, R. Flage, and M. Yloenen (Eds.), Proceedings of the 35nd European Safety and Reliability Conference (Submitted). Research Publishing.
+Use the following citation when working with the model and using the data generated with it: Mauthe, F.; Hagmeyer, S.; and Zeiler, P. (2025). Holistic simulation model of the temporal degradation of rolling bearings. In E. B. Abrahamsen, T. Aven, F. Bouder, R. Flage, and M. Yloenen (Eds.), Proceedings of the 35nd European Safety and Reliability Conference (Submitted). Research Publishing.
